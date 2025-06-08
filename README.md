@@ -139,7 +139,6 @@ Dùng `create_index()` để tạo index cho `patient_id` và `HeartDisease` nh�
 
 
 ## Bảng phân công công việc
-# Thông Tin Thành Viên Nhóm
 
 | STT | Họ tên              | MSSV       | Công việc phân công                       | Mô tả chi tiết công việc                  |
 |-----|---------------------|------------|------------------------------------------|-------------------------------------------|
